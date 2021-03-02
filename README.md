@@ -8,7 +8,7 @@ The CEO of SpaceX, Elon Musk, is very active on the social media Twitter. Hence 
  
  The project does the following:
  
-- use Twitter API to scrape the tweets about SpaceX
+- use Twitter API to scrape the tweets about SpaceX, maximum 3000 data
 - check, validate, visualize, and clean the data
 - create clusters of keywords related to SpaceX 
 - create hash graph of Twitter tags
